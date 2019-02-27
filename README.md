@@ -1,11 +1,11 @@
-# Skewboard ISP Uno
+# Skew ISP Uno
 
 ![40084f455e98bf24bbd68a4dbfa840b0](https://user-images.githubusercontent.com/22014799/53512301-aeaab400-3ac2-11e9-8bb6-6ed0b18cd606.png)
 
 [Order the PCB on OSH Park](https://oshpark.com/shared_projects/m8nYVVg6)
 
 ### Features
-Skewboard ISP Uno is an ISP programming shield for Arduino Uno.  
+Skew ISP Uno is an ISP programming shield for Arduino Uno.  
 Use it with the sketch described at [Arduino.cc's Arduino ISP Tutorial](https://www.arduino.cc/en/Tutorial/ArduinoISP#toc5).   
 This shield enables programming of AVR chips notably ATTiny or ATMega.  
 One special feature is the presence of a 6 positions Molex PicoBlade connector.
